@@ -323,10 +323,6 @@ This project is licensed under the MIT License.
 
 # 🙏 Acknowledgements
 
-Built using **Python**, **Streamlit**, **LangChain**, **FAISS**, **Sentence Transformers**, and **Cohere Command-A**.
-
----
-
 <p align="center">
 
 Built with ❤️ using Python, Streamlit, LangChain, FAISS, Sentence Transformers, and Cohere Command-A.

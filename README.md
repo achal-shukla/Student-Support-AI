@@ -54,6 +54,12 @@ This project demonstrates how modern LLM applications can combine semantic retri
 
 ---
 
+## 🚀 Live Demo
+
+https://student-support-assistant-ai.streamlit.app
+
+---
+
 # 💡 Why This Project?
 
 The goal of this project was not simply to build another RAG chatbot, but to design a student support system that demonstrates practical AI engineering principles. Throughout development, the focus extended beyond accurate question answering to include response reliability, transparency, privacy, and a polished user experience.

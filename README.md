@@ -56,7 +56,7 @@ This project demonstrates how modern LLM applications can combine semantic retri
 
 ## 🚀 Live Demo
 
-https://student-support-assistant-ai.streamlit.app
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://student-support-assistant-ai.streamlit.app)
 
 ---
 

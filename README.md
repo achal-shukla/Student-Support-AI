@@ -167,7 +167,7 @@ Every response includes supporting document references to improve transparency.
 
 ---
 <a id="installation"></a>
-# ⚙ Installation
+# • Installation
 
 > [!TIP]
 > If you're using your own documents, place the PDF files inside the `data/` directory before building the vector database.

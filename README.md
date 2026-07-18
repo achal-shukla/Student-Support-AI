@@ -19,7 +19,7 @@ A Retrieval-Augmented Generation (RAG) application for answering student queries
 
 <p align="center">
 
-<a href="YOUR_STREAMLIT_LINK">🌐 Live Demo</a> •
+<a href="https://student-support-assistant-ai.streamlit.app">🌐 Live Demo</a> •
 <a href="#features">✨ Features</a> •
 <a href="#architecture">🏗 Architecture</a> •
 <a href="#installation">⚙ Installation</a>
@@ -69,7 +69,7 @@ By combining semantic retrieval, grounded response generation, source attributio
 The resulting application showcases how Retrieval-Augmented Generation (RAG) can be applied to real-world institutional support while emphasizing engineering decisions that improve both user trust and system quality.
 
 --- 
-
+<a id="features"></a>
 # ✨ Features
 
 - 📚 Retrieval-Augmented Generation (RAG)
@@ -88,7 +88,7 @@ The resulting application showcases how Retrieval-Augmented Generation (RAG) can
 > Every response includes the supporting source document(s) used during retrieval.
 
 ---
-
+<a id="architecture"></a>
 # 🏗 Architecture
 
 ```text
@@ -166,7 +166,7 @@ Every response includes supporting document references to improve transparency.
 | Document Loader | PyPDF |
 
 ---
-
+<a id="installation"></a>
 # ⚙ Installation
 
 > [!TIP]
